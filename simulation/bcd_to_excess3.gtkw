@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Jul  8 18:40:51 2026
+[*]
+[dumpfile] "/home/dikshant/.cache/.fr-4SjcXh/dump.vcd"
+[dumpfile_mtime] "Wed Jul  8 18:18:10 2026"
+[dumpfile_size] 1113
+[savefile] "/home/dikshant/bcd_to_excess3.gtkw"
+[timestart] 0
+[size] 1850 1016
+[pos] -51 -51
+*-5.118876 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 233
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+testbench.dut.a
+testbench.dut.b
+testbench.dut.c
+testbench.dut.d
+testbench.dut.w
+testbench.dut.x
+testbench.dut.y
+testbench.dut.z
+@22
+testbench.bcd[3:0]
+@28
+testbench.clk
+@22
+testbench.excess3[3:0]
+testbench.i[3:0]
+@28
+testbench.rst
+[pattern_trace] 1
+[pattern_trace] 0
